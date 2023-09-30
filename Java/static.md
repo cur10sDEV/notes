@@ -2,13 +2,13 @@
 
 > Static stuff is resolved during compile time
 
-1. Access static variables inside the classname instead of **this**.
+1. Access static variables inside the class using classname instead of **this**.
 
-2. Access static varibales outside the classname instead of **object reference**.
+2. Access static varibales outside the class using classname instead of **object reference**.
 
 3. You can declare both **variables** and **methods** as static.
 
-4. Static varibles and methods belong to the class and to the object.
+4. Static varibles and methods belong to the class and not to the object.
 
 5. Static methods can be called on class without creating an object.
    - Example: main function of any class
