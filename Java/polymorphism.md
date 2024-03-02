@@ -107,3 +107,8 @@ public class Main {
    - Because there's no point in overriding them in the child class because the method in the parent class will **always run** no matter from which object you call it.
 
 > Static methods can be inherited but cannot be overriden, because overriding depends on objects and static dosen't hence static methods cannot be overriden
+
+### Diagrams for explanation
+
+- Dynamic Polymorphism
+  ![Dynamic Polymorphism](./images/dynamic-polymorphism.png)

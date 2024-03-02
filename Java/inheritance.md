@@ -77,3 +77,11 @@ public class WeightBox extends Box {
     }
 }
 ```
+
+### Diagrams For Explanations
+
+- Multiple Inheritance
+  ![Multiple Inheritance](./images/multiple-inheritance.png)
+
+- Multilevel Inheritance
+  ![Multi-level Inheritance](./images/multi-level-inheritance.png)
